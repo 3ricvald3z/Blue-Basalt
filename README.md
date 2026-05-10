@@ -30,11 +30,11 @@ sudo nano /etc/apt/sources.list
 Paste exactly:
   
   
-
-`deb http://deb.debian.org/debian/ trixie main contrib non-free non-free-firmware  `
-`deb http://security.debian.org/debian-security trixie-security main contrib non-free non-free-firmware`  
-`deb http://deb.debian.org/debian/ trixie-updates main contrib non-free non-free-firmware`
-  
+```Bash
+deb http://deb.debian.org/debian/ trixie main contrib non-free non-free-firmware
+deb http://security.debian.org/debian-security trixie-security main contrib non-free non-free-firmware  
+deb http://deb.debian.org/debian/ trixie-updates main contrib non-free non-free-firmware
+```  
 
 Update the package database:
 
