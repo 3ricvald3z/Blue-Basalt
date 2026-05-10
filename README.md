@@ -97,7 +97,7 @@ Deployment of core security tools and firmware.
 -   Master Package List:  
       
     ```Bash  
-    sudo apt install firmware-misc-nonfree firmware-realtek build-essential wireshark vlc mpv gimp keepassxc thunderbird hexchat gh nmap btop ufw fail2ban flowblade audacity ffmpeg npm qgis librecad kiwix filezilla qbittorrent  
+    sudo apt install firmware-misc-nonfree firmware-realtek build-essential wireshark vlc mpv gimp keepassxc thunderbird hexchat gh nmap arp-scan btop ufw fail2ban flowblade audacity ffmpeg npm qgis librecad kiwix filezilla qbittorrent  
       ```
     
 -   Wireshark Fix:
