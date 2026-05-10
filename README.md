@@ -91,7 +91,7 @@ sudo apt update && sudo apt install -y docker-ce docker-ce-cli containerd.io doc
 
 Deployment of core security tools and firmware.
 
--   Direct .debs: Install Google Earth Pro and VirtualBox 7.2 using wget and sudo apt install ./*.deb.  
+-   Direct .debs: Install Google Earth Pro and VirtualBox 7.2 using `wget` and `sudo apt install ./*.deb`  
       
     
 -   Master Package List:  
