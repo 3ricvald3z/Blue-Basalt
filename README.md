@@ -1,4 +1,4 @@
-# 🛡️Blue Basalt🛡️
+# Blue Basalt 🪨💻
 
 **A Hardened System Foundation for the Modern Defender.**
 
