@@ -107,7 +107,7 @@ Deployment of core security tools and firmware.
 -   Permissions: Add user to necessary security and virtualization groups:  
       
     ```Bash  
-    sudo usermod -aG docker,vboxusers,wireshark,plugdev $USER  
+    sudo usermod -aG docker,vboxusers,wireshark,plugdev,dialout $USER  
     ```  
     
 
